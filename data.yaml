@@ -1,0 +1,5 @@
+train: ../train/images
+val: ../valid/images
+
+nc: 6
+names: ['corona1', 'corona2', 'corona3', 'corona4', 'doctor', 'paitent']
